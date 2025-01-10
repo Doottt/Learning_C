@@ -1,2 +1,2 @@
-# Learning_C
-Learning C Language 
+# Learning C
+
